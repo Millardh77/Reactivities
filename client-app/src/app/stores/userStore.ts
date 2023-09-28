@@ -1,4 +1,3 @@
-import { Navigate } from 'react-router-dom';
 import { makeAutoObservable, runInAction } from "mobx";
 import { User, UserFormValues } from "../models/user";
 import agent from "../api/agent";
